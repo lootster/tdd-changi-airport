@@ -1,3 +1,5 @@
+Changi Airport Passenger check in system
+---------------------------------
 Welcome to Changi Airport Passenger check in system for Singapore Eagle Airlines.
 Your responsibilities is to make a program that check in passenger
 and to see if they are allowed to do check in and is there any additional fee have to be paid.
@@ -16,9 +18,9 @@ business class : 25KG
 
 For example :
 
-We input FTY22, Economy, 8KG, checked in 3PM on 4PM flight : NOT FOUND
-We input FTY22X, Economy, 6KG, checked in 3PM on 4PM flight : ALLOWED
-We input FTY22X, Economy, 9KG, checked in 3PM on 4PM flight : ALLOWED with 20.0 SGD extra fee
-We input FTY22X, Premium eco, 10KG, checked in 3PM on 4PM flight : ALLOWED
-We input FTY22X, Economy, 7KG, checked in 3PM on 2PM flight : NOT FOUND
-We input FTY22X, Economy, 13KG, checked in 3PM on 3.30PM flight : NOT ALLOWED
+1. We input FTY22, Economy, 8KG, checked in 3PM on 4PM flight : NOT FOUND
+2. We input FTY22X, Economy, 6KG, checked in 3PM on 4PM flight : ALLOWED
+3. We input FTY22X, Economy, 9KG, checked in 3PM on 4PM flight : ALLOWED with 20.0 SGD extra fee
+4. We input FTY22X, Premium eco, 10KG, checked in 3PM on 4PM flight : ALLOWED
+5. We input FTY22X, Economy, 7KG, checked in 3PM on 2PM flight : NOT FOUND
+6. We input FTY22X, Economy, 13KG, checked in 3PM on 3.30PM flight : NOT ALLOWED
